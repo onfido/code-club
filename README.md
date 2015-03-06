@@ -42,10 +42,10 @@ Right. Let's get developing.
 
 ## Useful resources
 
-https://www.codeschool.com/courses/rails-for-zombies-redux
-https://www.codeschool.com/courses/try-git
-http://mislav.uniqpath.com/poignant-guide/
-http://learnrubythehardway.org/book/
-http://tryruby.org/levels/1/challenges/0
-https://rubymonk.com/
-https://github.com/RailsApps/rails-composer
++ https://www.codeschool.com/courses/rails-for-zombies-redux
++ https://www.codeschool.com/courses/try-git
++ http://mislav.uniqpath.com/poignant-guide/
++ http://learnrubythehardway.org/book/
++ http://tryruby.org/levels/1/challenges/0
++ https://rubymonk.com/
++ https://github.com/RailsApps/rails-composer
