@@ -4,13 +4,15 @@ Resources for our ongoing Code Club (engineering for non-engineers) sessions
 
 ## Lessons
 
-1. Race through Ruby
+1. [Race through Ruby](content/01_ruby.md)
 2. Cloning, pulling, pushing
 3. The web and rails
 4. A home for our data
 5. ???
  
 ## The Project
+
+[insert game here] ladder & challenge app
 
 ## Getting started
 
