@@ -5,14 +5,14 @@ Resources for our ongoing Code Club (engineering for non-engineers) sessions
 ## Lessons
 
 1. [Race through Ruby](content/01_ruby.md)
-2. Cloning, pulling, pushing
-3. The web and rails
-4. A home for our data
+2. [Cloning, pulling, pushing](content/02_version_control.md)
+3. [The web and rails](content/03_rails.md)
+4. [A home for our data](content/04_persistence.md)
 5. ???
  
 ## The Project
 
-[insert game here] ladder & challenge app
+[insert game here] ladder & challenge app [todo: requirements]
 
 ## Getting started
 
@@ -39,7 +39,5 @@ Once you've got everything installed, please try and get a basic Vagrant instanc
 Right. Let's get developing.
 
 [todo: steps for setting up Ruby vagrant box]
-
-
 
 ## Useful resources
