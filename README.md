@@ -10,7 +10,7 @@ Resources for our ongoing Code Club (engineering for non-engineers) sessions
 4. [A home for our data](content/04_persistence.md)
 5. ???
  
-## The Project
+## The project
 
 [insert game here] ladder & challenge app [todo: requirements]
 
@@ -41,3 +41,11 @@ Right. Let's get developing.
 [todo: steps for setting up Ruby vagrant box]
 
 ## Useful resources
+
+https://www.codeschool.com/courses/rails-for-zombies-redux
+https://www.codeschool.com/courses/try-git
+http://mislav.uniqpath.com/poignant-guide/
+http://learnrubythehardway.org/book/
+http://tryruby.org/levels/1/challenges/0
+https://rubymonk.com/
+https://github.com/RailsApps/rails-composer
