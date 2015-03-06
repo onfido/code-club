@@ -19,6 +19,8 @@ First up, install the following tools:
 1. [Git](http://git-scm.com/) (on Windows, you'll also need to add to your [path](http://blog.countableset.ch/2012/06/07/adding-git-to-windows-7-path/))
 2. [VirtualBox](https://www.virtualbox.org/)
 3. [Vagrant](https://www.vagrantup.com/)
+4. Text editor of your choice (most of us use [Sublime Text](http://www.sublimetext.com/); you could also try Notepad++ or Atom)
+5. (Optional) [Sourcetree](http://www.sourcetreeapp.com/)
 
 Git is a *version control tool*: these tools are used to manage changes, share and track the history of a codebase.  Vagrant is a tool for quickly provisioning virtual machines (VMs).  We'll use this to launch pre-configured machines that are ready for development and consistent regardless of host OS (Mac, Linux, Windows...)
 
