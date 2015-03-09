@@ -9,7 +9,7 @@ Resources for our ongoing Code Club (engineering for non-engineers) sessions
 3. [The web and rails](content/03_rails.md)
 4. [A home for our data](content/04_persistence.md)
 5. ???
- 
+
 ## The project
 
 [insert game here] ladder & challenge app [todo: requirements]
@@ -38,7 +38,15 @@ Once you've got everything installed, please try and get a basic Vagrant instanc
 
 Right. Let's get developing.
 
-[todo: steps for setting up Ruby vagrant box]
+  1. Open a terminal window (`Terminal` on a Mac, `Powershell` or `cmd` on Windows)
+  2. Clone this repository to your computer (type the following in your terminal `git clone https://github.com/onfido/code-club.git`)
+  3. CD to `code-club/box`
+  4. Run `vagrant up`
+  5. When that's complete, run `vagrant ssh`
+  6. Run `cd ../../vagrant`.  This directory is shared with your host machine
+  7. Run `rails new test-app`.  This will create a new rails application.  Run `cd test-app`.
+  8. Run `rails server -b 0.0.0.0`.  This starts a new server running `test-app`
+  9. From your host computer, navigate to localhost:3030.  All going well, this should show your new Rails app!
 
 ## Useful resources
 
