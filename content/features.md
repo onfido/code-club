@@ -1,6 +1,7 @@
-Infrastructure:
-    Web App
-        URL to enter leaderboard
+* Infrastructure:
+  * Web App
+  * URL to enter leaderboard
+
 Login
     Username
     Password
